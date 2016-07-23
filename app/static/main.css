@@ -1,0 +1,25 @@
+body {
+background: -webkit-radial-gradient(center, ellipse cover, rgba(17, 40, 88, 1) 0%, rgba(0, 0, 0, 1) 90%);
+/* Chrome10-25,Safari5.1-6 */
+}
+
+.header h1 {
+	color:  #fff;
+	font: Helvetica;
+}
+
+.main {
+text-align: center;
+margin: 5%;
+display: flex;
+}
+
+.main button {
+width: 50%;
+height: 25%;
+background-color: #0a0616;
+color: #fff;
+font-size: 36px;
+opacity: .6;
+text-transform: uppercase;
+}
